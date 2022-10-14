@@ -1,0 +1,15 @@
+body, h1 {
+    margin: 0;
+}
+h1 {
+    font-size: 20px;
+    color: blueviolet;
+}
+button {
+    background-color: blue;
+    color: white;
+}
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    text-align: center;
+}
